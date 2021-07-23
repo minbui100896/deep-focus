@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/deep-focus/static/css/main.23c8dc03.chunk.css",
+    "main.css": "/deep-focus/static/css/main.a523b7e0.chunk.css",
     "main.js": "/deep-focus/static/js/main.e9ea218d.chunk.js",
     "main.js.map": "/deep-focus/static/js/main.e9ea218d.chunk.js.map",
     "runtime-main.js": "/deep-focus/static/js/runtime-main.9918007b.js",
@@ -12,7 +12,7 @@
     "static/js/3.b0e11c52.chunk.js.map": "/deep-focus/static/js/3.b0e11c52.chunk.js.map",
     "index.html": "/deep-focus/index.html",
     "static/css/2.18277c2a.chunk.css.map": "/deep-focus/static/css/2.18277c2a.chunk.css.map",
-    "static/css/main.23c8dc03.chunk.css.map": "/deep-focus/static/css/main.23c8dc03.chunk.css.map",
+    "static/css/main.a523b7e0.chunk.css.map": "/deep-focus/static/css/main.a523b7e0.chunk.css.map",
     "static/js/2.a0306e8d.chunk.js.LICENSE.txt": "/deep-focus/static/js/2.a0306e8d.chunk.js.LICENSE.txt",
     "static/media/alarm-clock-5s.ba2165d8.mp3": "/deep-focus/static/media/alarm-clock-5s.ba2165d8.mp3",
     "static/media/clock-ticking.32e29456.mp3": "/deep-focus/static/media/clock-ticking.32e29456.mp3",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.9918007b.js",
     "static/css/2.18277c2a.chunk.css",
     "static/js/2.a0306e8d.chunk.js",
-    "static/css/main.23c8dc03.chunk.css",
+    "static/css/main.a523b7e0.chunk.css",
     "static/js/main.e9ea218d.chunk.js"
   ]
 }
