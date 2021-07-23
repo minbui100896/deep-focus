@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "/deep-focus/static/css/main.49e4b0de.chunk.css",
-    "main.js": "/deep-focus/static/js/main.5c7218f7.chunk.js",
-    "main.js.map": "/deep-focus/static/js/main.5c7218f7.chunk.js.map",
-    "runtime-main.js": "/deep-focus/static/js/runtime-main.633faa68.js",
-    "runtime-main.js.map": "/deep-focus/static/js/runtime-main.633faa68.js.map",
-    "static/js/2.9d1cc5d3.chunk.js": "/deep-focus/static/js/2.9d1cc5d3.chunk.js",
-    "static/js/2.9d1cc5d3.chunk.js.map": "/deep-focus/static/js/2.9d1cc5d3.chunk.js.map",
-    "static/js/3.9773dbd6.chunk.js": "/deep-focus/static/js/3.9773dbd6.chunk.js",
-    "static/js/3.9773dbd6.chunk.js.map": "/deep-focus/static/js/3.9773dbd6.chunk.js.map",
+    "main.css": "/deep-focus/static/css/main.23c8dc03.chunk.css",
+    "main.js": "/deep-focus/static/js/main.e9ea218d.chunk.js",
+    "main.js.map": "/deep-focus/static/js/main.e9ea218d.chunk.js.map",
+    "runtime-main.js": "/deep-focus/static/js/runtime-main.9918007b.js",
+    "runtime-main.js.map": "/deep-focus/static/js/runtime-main.9918007b.js.map",
+    "static/css/2.18277c2a.chunk.css": "/deep-focus/static/css/2.18277c2a.chunk.css",
+    "static/js/2.a0306e8d.chunk.js": "/deep-focus/static/js/2.a0306e8d.chunk.js",
+    "static/js/2.a0306e8d.chunk.js.map": "/deep-focus/static/js/2.a0306e8d.chunk.js.map",
+    "static/js/3.b0e11c52.chunk.js": "/deep-focus/static/js/3.b0e11c52.chunk.js",
+    "static/js/3.b0e11c52.chunk.js.map": "/deep-focus/static/js/3.b0e11c52.chunk.js.map",
     "index.html": "/deep-focus/index.html",
-    "static/css/main.49e4b0de.chunk.css.map": "/deep-focus/static/css/main.49e4b0de.chunk.css.map",
-    "static/js/2.9d1cc5d3.chunk.js.LICENSE.txt": "/deep-focus/static/js/2.9d1cc5d3.chunk.js.LICENSE.txt",
+    "static/css/2.18277c2a.chunk.css.map": "/deep-focus/static/css/2.18277c2a.chunk.css.map",
+    "static/css/main.23c8dc03.chunk.css.map": "/deep-focus/static/css/main.23c8dc03.chunk.css.map",
+    "static/js/2.a0306e8d.chunk.js.LICENSE.txt": "/deep-focus/static/js/2.a0306e8d.chunk.js.LICENSE.txt",
     "static/media/alarm-clock-5s.ba2165d8.mp3": "/deep-focus/static/media/alarm-clock-5s.ba2165d8.mp3",
     "static/media/clock-ticking.32e29456.mp3": "/deep-focus/static/media/clock-ticking.32e29456.mp3",
+    "static/media/font-awesome.min.css": "/deep-focus/static/media/fontawesome-webfont.f691f37e.woff",
     "static/media/logo.6ce24c58.svg": "/deep-focus/static/media/logo.6ce24c58.svg",
     "static/media/App.css": "/deep-focus/static/media/logo.e0a3f6b7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.633faa68.js",
-    "static/js/2.9d1cc5d3.chunk.js",
-    "static/css/main.49e4b0de.chunk.css",
-    "static/js/main.5c7218f7.chunk.js"
+    "static/js/runtime-main.9918007b.js",
+    "static/css/2.18277c2a.chunk.css",
+    "static/js/2.a0306e8d.chunk.js",
+    "static/css/main.23c8dc03.chunk.css",
+    "static/js/main.e9ea218d.chunk.js"
   ]
 }
